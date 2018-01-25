@@ -1623,8 +1623,8 @@ img {
 .post-comments.activated {
     margin: -1px 0 0;
     padding: 1em;
-    background: #faf9f7;
-    border: 1px solid #e5e4e1
+    background: #ffffff;
+    border: none
 }
 
 .post-comments-activate {
